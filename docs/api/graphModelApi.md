@@ -367,7 +367,7 @@ graphModel.graphDataToModel(graphData)
 返回值： GraphConfigData
 
 ```js
-cosnt graphData = graphModel.modelToGraphData();
+const graphData = graphModel.modelToGraphData();
 console.log(graphData)
 ```
 
